@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408809610771",
+    "project_id": "latihancrud2-dff48",
+    "storage_bucket": "latihancrud2-dff48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408809610771:android:2ff8f04de27b285bc769e6",
+        "android_client_info": {
+          "package_name": "latihan.crud.hendriawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkXM-VxZwHGC3sb1FTjkv1aspedFQ8N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

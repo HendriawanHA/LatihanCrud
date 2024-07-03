@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Latihan-Crud_Hendriawan</string>
+    <string name="sub_judul">Sub Judul</string>
+    <string name="judul">Judul</string>
+    <string name="news_title">News Title</string>
+    <string name="news_subtitle">News Subtitle</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="masukan_judul">Masukan Judul</string>
+    <string name="masukan_deskripsi">Masukan Deskripsi</string>
+    <string name="gambar_yang_dipilih">Gambar yang dipilih</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="simpan">Simpan</string>
+</resources>
